@@ -1,2 +1,2 @@
-# Bad-Hat
+# Bad Hat
 Dangeorus tools
