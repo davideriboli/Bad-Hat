@@ -1,0 +1,12 @@
+[submodule "db1000n.git"]
+	path = db1000n
+	url = https://github.com/Arriven/db1000n.git
+[submodule "Manyloris.git"]
+	path = Manyloris
+	url = https://github.com/mjalt96/Manyloris.git
+[submodule "MHDDoS.git"]
+	path = MHDDoS
+	url = https://github.com/MatrixTM/MHDDoS.git
+[submodule "slowloris.git"]
+	path = slowloris
+	url = https://github.com/gkbrk/slowloris.git
